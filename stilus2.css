@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+table, th, td{
+    border-bottom: solid 1px gray;
+}
+table{
+    width: 70%;
+    margin: auto;
+    
+}
+th{
+    background-color: rgb(74, 130, 134);
+    color: white;
+    padding: 5px;
+}
